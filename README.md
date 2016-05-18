@@ -14,3 +14,8 @@ The tokenizer reads in a string breaking up each token and returns it once calle
 ###Sorted List
 
 The sorted list uses two linked lists. The first list manages the foldernames, while the second list manages the occurences of words. 
+
+
+###Output File
+
+Once the program completes it saves all the information in an output file.
