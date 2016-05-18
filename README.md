@@ -18,4 +18,4 @@ The sorted list uses two linked lists. The first list manages the foldernames, w
 
 ###Output File
 
-Once the program completes it saves all the information in an output file.
+Once the program completes it saves all the information in an output file, where the user can see an organized list of directories pertaining to their words and count.
